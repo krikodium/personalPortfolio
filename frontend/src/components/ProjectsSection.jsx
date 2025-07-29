@@ -59,12 +59,12 @@ const ProjectsSection = () => {
     },
     {
       id: 4,
-      title: 'AI Image Generator',
-      subtitle: 'Creative Showcase App',
-      description: 'A creative web app that generates images using AI prompts and displays them in an interactive gallery.',
-      longDescription: 'The AI Image Generator Showcase is an innovative web application that harnesses the power of artificial intelligence to create stunning images from text prompts. It features an interactive gallery, smooth animations, and a responsive design that works seamlessly across all devices.',
-      technologies: ['React', 'OpenAI API', 'Tailwind CSS'],
-      highlights: ['Prompt-based image generation', 'Smooth UI animations', 'Responsive design'],
+      title: 'Chinchón Online',
+      subtitle: 'Multiplayer Card Game',
+      description: 'An interactive multiplayer version of the classic Chinchón card game, built for web and mobile, featuring real-time matches.',
+      longDescription: 'Chinchón Online brings the beloved classic card game to the digital world with real-time multiplayer functionality. Built for both web and mobile platforms, it features live gameplay with smooth animations, room creation capabilities, and an intuitive user experience designed to keep players engaged.',
+      technologies: ['React', 'Node.js', 'Socket.IO', 'Tailwind CSS', 'PostgreSQL'],
+      highlights: ['Live gameplay with animations', 'Room creation', 'Smooth UX for players'],
       images: [
         'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=500&fit=crop',
         'https://images.unsplash.com/photo-1686191128892-88bf5a882c5b?w=800&h=500&fit=crop',
